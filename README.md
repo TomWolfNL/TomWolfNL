@@ -1,3 +1,7 @@
 ## Hi 👋
 
-![snake gif](https://github.com/your-username/TomWolfNL/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomWolfNL/TomWolfNL/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomWolfNL/TomWolfNL/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TomWolfNL/TomWolfNL/output/github-snake.svg">
+</picture>
